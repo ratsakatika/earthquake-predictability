@@ -13,8 +13,9 @@
   </tr>
 </table>
 
-
 ## Overview
+
+[![Overview Video](https://img.youtube.com/vi/_e6PUjI90zY8/0.jpg)](https://www.youtube.com/watch?v=_e6PUjI90zY8)
 
 Earthquakes have substantial worldwide effects, and accurate forecasting can
 greatly assist in emergency responses and preparedness efforts. Slow Slip
