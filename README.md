@@ -15,6 +15,8 @@
 
 ## Overview
 
+Check out the video summary:
+
 [![Overview Video](https://img.youtube.com/vi/e6PUjI90zY8/0.jpg)](https://www.youtube.com/watch?v=e6PUjI90zY8)
 
 Earthquakes have substantial worldwide effects, and accurate forecasting can
