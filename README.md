@@ -13,11 +13,11 @@
   </tr>
 </table>
 
-## Overview
-
-Check out the video summary:
+## Summary video
 
 [![Overview Video](https://img.youtube.com/vi/e6PUjI90zY8/0.jpg)](https://www.youtube.com/watch?v=e6PUjI90zY8)
+
+## Abstract
 
 Earthquakes have substantial worldwide effects, and accurate forecasting can
 greatly assist in emergency responses and preparedness efforts. Slow Slip
